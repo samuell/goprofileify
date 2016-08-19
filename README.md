@@ -1,5 +1,5 @@
-Go Prof-ify
-===========
+Go Profile-ify
+==============
 
 A script that automates the profiling of Go programs. It does all of the following:
 
@@ -18,14 +18,14 @@ Installation
 ```bash
 mkdir ~/opt
 cd ~/opt
-git clone https://github.com/samuell/goprofify.git
-cd goprofify
-echo 'export PATH=~/opt/goprofify/:$PATH' >> ~/.bashrc
+git clone https://github.com/samuell/goprofileify.git
+cd goprofileify
+echo 'export PATH=~/opt/goprofileify/:$PATH' >> ~/.bashrc
 source ~/.bashrc
 ```
 
 Usage
 -----
 ```
-goprofify examplegoapp.go
+goprofileify examplegoapp.go
 ```
