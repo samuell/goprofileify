@@ -9,8 +9,8 @@ A script that automates the profiling of Go programs. It does all of the followi
 - Collects the pprof file containing profiling info
 - Runs the go pprof program, to generate a list of functions sorted by execution time
 
-Can be modified to output other info that the pprof tool supports, or just
-allow more configuration options in general.
+Can (and probably should) be modified to output other info that the pprof tool
+supports, or just allow more configuration options in general.
 
 The script is ugly and could use some polish, but it works!
 
