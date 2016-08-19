@@ -1,6 +1,6 @@
 #!/bin/bash
 # USAGE:
-# goprof myapp.go --param1 val1 --param2 val2
+# goprofileify myapp.go --param1 val1 --param2 val2
 
 # Receive params
 gofile=$1;
