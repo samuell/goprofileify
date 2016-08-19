@@ -27,5 +27,5 @@ source ~/.bashrc
 Usage
 -----
 ```
-goprofify mylittlegoapp.go
+goprofify examplegoapp.go
 ```
